@@ -61,4 +61,23 @@ const resultsDiv = document.querySelector(".results");
 // const fruitsCount = getFruitsCount();
 // resultsDiv.innerHTML += "<br/> Function value is " + fruitsCount;
 
+/** Step into / out of functions */
+
+// var users = [
+//     { 'user': 'fred',    'age': 40, 'active': false },
+//     { 'user': 'pebbles', 'age': 1,  'active': true },
+//     { 'user': 'barney',  'age': 36, 'active': true }
+//   ];
+   
+// let user = _.find(users, function(o) { 
+//     return o.age < 40; 
+// });
+
+// console.log(user);
+
+// var combinedArray = _.concat([1], 2, [3], [4]);
+ 
+// console.log(combinedArray);
+// => [1, 2, 3, [4]]
+ 
 
